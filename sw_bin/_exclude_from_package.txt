@@ -6,4 +6,4 @@ start*
 stop*
 *.njsproj
 file1.js
-\web
+\sw_bin\web
