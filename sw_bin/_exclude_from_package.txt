@@ -5,5 +5,5 @@ myDataweb_Update.exe
 start*
 stop*
 *.njsproj
-file*
-\sw*n\web
+fi*.js
+\sw_bin\web
