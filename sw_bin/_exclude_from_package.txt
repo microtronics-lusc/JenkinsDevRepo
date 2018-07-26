@@ -1,8 +1,9 @@
 \cert
 \custom_archive
+\sw_bin\web
+_*.txt
 myDataweb_Installer.exe
 myDataweb_Update.exe
 start*
 stop*
 *.njsproj
-\sw_bin\w*
