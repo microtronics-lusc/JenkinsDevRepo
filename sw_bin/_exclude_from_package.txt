@@ -1,6 +1,6 @@
 \sw_bin\cert
 \sw_bin\custom_archive
-\sw*n\we*
+\sw_bin\w*
 _*.txt
 myDataweb_Installer.exe
 myDataweb_Update.exe
